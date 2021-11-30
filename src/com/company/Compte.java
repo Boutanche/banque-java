@@ -42,7 +42,7 @@ public class Compte {
     }
 
     /**
-     *
+     * Effectuer un virement du compte vers compte destination
      * @param montant
      * @param destination
      */
