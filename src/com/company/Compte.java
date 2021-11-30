@@ -13,7 +13,9 @@ public class Compte {
      * @param nomCompte
      */
     public Compte(String nomCompte){
+
         nom = nomCompte;
+        solde = 0.0;
     }
 
     /**
